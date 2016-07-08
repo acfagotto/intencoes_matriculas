@@ -80,10 +80,5 @@ namespace Cadastro_de_Intenção_de_Matrícula
             mConn2.Close();
             return lista;
         }
-
-        private void semNada()
-        {
-
-        }
     }
 }
